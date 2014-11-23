@@ -1,1 +1,2 @@
 Trying out GIT. Hope this helps synchronizing our toolkit.
+Staging area is a space between working directory and repository where we can temporarily add files before commiting them.
